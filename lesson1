@@ -11,3 +11,5 @@
         行扩充
         4.bandit算法：Epsilon-Greedy算法；UCB算法；Thompson sampling算法
         5.基于内容
+        
+thinking：以上用于冷启动中的算法有哪些区别，分别应用于冷启动的哪个阶段（根据数据量来分）
